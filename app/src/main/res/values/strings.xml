@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQL</string>
+    <array name="functions">
+        <item>餘額查詢</item>
+        <item>交易明細</item>
+        <item>最新消息</item>
+        <item>理財資訊</item>
+        <item>離開</item>
+    </array>
+</resources>
